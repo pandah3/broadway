@@ -3,7 +3,7 @@
   font-family: Helvetica;
 }
 
-h1, .navigation, h4, bottombanner {
+h1, .navigation, h4, .bottombanner {
   color: white;
 }
 
@@ -36,7 +36,11 @@ p {
   font-size: 14px;
 }
 
+.bottombanner {
+  text-align: left;
+  background-color: dimgray;
+}
+
 .banner {
   font-size: 11px;
-  background-color: dimgray;
 }
